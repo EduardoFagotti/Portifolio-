@@ -17,15 +17,25 @@ export default function Sobre() {
         <div>
           <h1>Um pouco sobre mim</h1>
           <p>
-            Sou estudante em Análise e Desenvolvimento de Sistemas na
-            Universidade Paranaense Unipar em Cianorte-PR, mas acredito que para
-            uma boa formação e preciso estudar muito além da faculdade por tal
-            motivo realizei os cursos de algoritmo, HTML5, CSS3, JavaScript e
-            iniciei os estudos em React.Js para me tornar um profissional
-            extremamente competente, procuro me desenvolver profissionalmente
-            cada dia mais. Estou a procura da minha primeira oportunidade na
-            área de desenvolvimento, porem já trabalhei como assistente
-            administrativo durante um ano e dez meses.
+            Sou estudante do curso de Análise e Desenvolvimento de Sistemas
+            oferecido pela Universidade Paranaense (UNIPAR), no campus
+            localizado em Cianorte/PR.
+          </p>
+          <p>
+            Acredito que para uma boa formação, são necessários estudos externos
+            ao âmbito universitário. Por tal motivo, realizei os seguintes
+            cursos complementares: Algoritmo, HTML5, CSS3 e JavaScript. Ademais,
+            iniciei os estudos em React.Js.
+          </p>
+          <p>
+            Portanto, a fim de me tornar um profissional extremamente
+            competente, procuro me desenvolver profissionalmente cada dia mais.
+          </p>
+          <p>
+            Já trabalhei como assistente administrativo durante 01 (um) ano e 10
+            (dez) meses. Entretanto, ainda não tive minha primeira experiência
+            na área de análise e desenvolvimento de sistemas, oportunidade que
+            aqui busco experienciar.
           </p>
         </div>
       </section>
