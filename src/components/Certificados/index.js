@@ -5,6 +5,7 @@ import Img2 from "../../assets/certificados/Conecta.PNG";
 import Img3 from "../../assets/certificados/HTML-CSS-M1.PNG";
 import Img4 from "../../assets/certificados/Fundamentar.PNG";
 import Img5 from "../../assets/certificados/linux.PNG";
+import Img6 from "../../assets/certificados/Coodesh-ReactJs.PNG";
 export default function Certificados() {
   return (
     <Container>
@@ -32,6 +33,10 @@ export default function Certificados() {
           <li>
             <h2>Fundamentos de Linux</h2>
             <img src={Img5}></img>
+          </li>
+          <li>
+            <h2>Teste de ReactJs</h2>
+            <img src={Img6}></img>
           </li>
         </ul>
       </section>

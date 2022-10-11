@@ -4,6 +4,7 @@ import imgBanner from "../../assets/img/not.jpg";
 export const BannerContainer = styled.div`
   height: 50vh;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   background-image: url(${imgBanner});
@@ -83,4 +84,11 @@ export const Container = styled.nav`
       height: 55px;
     }
   }
+`;
+
+export const MenuCont = styled.nav`
+  background-color: red;
+  margin-bottom: 50px;
+  margin-top: -20px;
+  margin-left: -1000px;
 `;
