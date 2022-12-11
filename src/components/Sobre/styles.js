@@ -35,6 +35,7 @@ export const ContainerSobre = styled.div`
 
   section {
     margin: 32px auto;
+    margin-top: 50px;
     max-width: 780px;
     width: 90%;
     color: white;
@@ -46,7 +47,6 @@ export const ContainerSobre = styled.div`
     );
     padding-top: 4px;
     border-radius: 10px;
-
     transition: transform 0.3s;
   }
   section:hover {
@@ -62,6 +62,7 @@ export const ContainerSobre = styled.div`
   }
 `;
 export const ContainerIcons = styled.div`
+  text-align: center;
   h4 {
     margin-top: -5px;
     text-align: center;

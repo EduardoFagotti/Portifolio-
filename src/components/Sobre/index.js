@@ -22,20 +22,13 @@ export default function Sobre() {
             localizado em Cianorte/PR.
           </p>
           <p>
-            Acredito que para uma boa formação, são necessários estudos externos
-            ao âmbito universitário. Por tal motivo, realizei os seguintes
-            cursos complementares: Algoritmo, HTML5, CSS3 e JavaScript. Ademais,
-            iniciei os estudos em React.Js.
+            Procuro me desenvolver profissionalmente cada dia mais realizando
+            projetos e cursos fora da faculdade. Algoritmo, HTML5, CSS3 e
+            JavaScript. Ademais, iniciei os estudos em React.Js.
           </p>
           <p>
-            Portanto, a fim de me tornar um profissional extremamente
-            competente, procuro me desenvolver profissionalmente cada dia mais.
-          </p>
-          <p>
-            Já trabalhei como assistente administrativo durante 01 (um) ano e 10
-            (dez) meses. Entretanto, ainda não tive minha primeira experiência
-            na área de análise e desenvolvimento de sistemas, oportunidade que
-            aqui busco experienciar.
+            Atualmente trabalho em alguns projetos em React.Js como Freelancer e
+            estou em busca de mais esperiencia profissional.
           </p>
         </div>
       </section>
