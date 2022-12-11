@@ -62,7 +62,6 @@ export const ContainerSobre = styled.div`
   }
 `;
 export const ContainerIcons = styled.div`
-  text-align: center;
   h4 {
     margin-top: -5px;
     text-align: center;

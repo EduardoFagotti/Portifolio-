@@ -28,7 +28,7 @@ export default function Sobre() {
           </p>
           <p>
             Atualmente trabalho em alguns projetos em React.Js como Freelancer e
-            estou em busca de mais esperiencia profissional.
+            estou em busca de mais experiência profissional.
           </p>
         </div>
       </section>
