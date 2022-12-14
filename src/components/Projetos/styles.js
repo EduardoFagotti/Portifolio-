@@ -13,9 +13,7 @@ export const Container = styled.nav`
     flex-wrap: wrap;
     li {
       padding-top: -15px;
-      margin-left: 10px;
-      margin-right: 10px;
-      margin-bottom: 20px;
+      margin: 25px;
       color: white;
       background-image: linear-gradient(
         90deg,
@@ -30,6 +28,12 @@ export const Container = styled.nav`
 
     li:hover {
       transform: scale(1.1);
+      background-image: linear-gradient(
+        90deg,
+        #e60b25 30%,
+        #d29f03 50.52%,
+        #ffff7a 100%
+      );
     }
     img {
       width: 100%;
@@ -51,6 +55,8 @@ export const Container = styled.nav`
     padding-top: 10px;
     padding-bottom: 10px;
     margin-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
   }
 
   h3 {

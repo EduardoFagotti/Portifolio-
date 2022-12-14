@@ -48,7 +48,7 @@ export default function Sobre() {
               <li>
                 <a
                   target="_blank"
-                  href="https://www.instagram.com/eduardo_fagotti/"
+                  href="https://www.instagram.com/eduardofagotti/"
                 >
                   <img src={Img3}></img>
                 </a>

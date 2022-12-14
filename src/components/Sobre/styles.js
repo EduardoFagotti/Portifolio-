@@ -26,6 +26,12 @@ export const ContainerSobre = styled.div`
 
   .divFoto:hover {
     transform: scale(1.1);
+    background-image: linear-gradient(
+      90deg,
+      #e60b25 30%,
+      #d29f03 50.52%,
+      #ffff7a 100%
+    );
   }
 
   img {
@@ -51,6 +57,12 @@ export const ContainerSobre = styled.div`
   }
   section:hover {
     transform: scale(1.1);
+    background-image: linear-gradient(
+      90deg,
+      #e60b25 30%,
+      #d29f03 50.52%,
+      #ffff7a 100%
+    );
   }
 
   section div {
