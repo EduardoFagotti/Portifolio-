@@ -6,6 +6,7 @@ import Img1 from "../../assets/icons/HTML.webp";
 import Img2 from "../../assets/icons/CSS.png";
 import Img3 from "../../assets/icons/js.png";
 import Img4 from "../../assets/icons/react.png";
+import Img5 from "../../assets/icons/next-js.png";
 import Menu from "../Menu";
 export default function Banner() {
   return (
@@ -31,6 +32,9 @@ export default function Banner() {
             </li>
             <li>
               <img src={Img4}></img>
+            </li>
+            <li>
+              <img src={Img5}></img>
             </li>
           </ul>
         </Container>

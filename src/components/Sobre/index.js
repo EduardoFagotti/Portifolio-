@@ -27,8 +27,8 @@ export default function Sobre() {
             JavaScript. Ademais, iniciei os estudos em React.Js.
           </p>
           <p>
-            Atualmente trabalho em alguns projetos em React.Js como Freelancer e
-            estou em busca de mais experiência profissional.
+            Atualmente trabalho como desenvolvedor Front end na empresa Design
+            house utilizando Next.js.
           </p>
         </div>
       </section>

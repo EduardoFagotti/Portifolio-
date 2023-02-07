@@ -6,6 +6,7 @@ import Img3 from "../../assets/projetos/Cep.PNG";
 import Img4 from "../../assets/projetos/calc.jpg";
 import Img5 from "../../assets/projetos/NetflixClone.PNG";
 import Img6 from "../../assets/projetos/contador.PNG";
+import Img7 from "../../assets/projetos/pokedex.jpeg";
 import Imghtml from "../../assets/icons/HTML.webp";
 import Imgcss from "../../assets/icons/CSS.png";
 import Imgjs from "../../assets/icons/js.png";
@@ -16,11 +17,11 @@ export default function Projetos() {
       <h1>Projetos</h1>
       <ul>
         <li>
-          <h2>Countdown(contador regressivo) </h2>
-          <a target="_blank" href="https://playful-moxie-d089f4.netlify.app">
-            <img src={Img6}></img>
+          <h2>Pokedex</h2>
+          <a target="_blank" href="https://lnkd.in/d_Mwt745">
+            <img src={Img7}></img>
           </a>
-          <ContainerIcons>
+          {/* <ContainerIcons>
             <h4>Tecnologias utilizadas</h4>
             <ul>
               <li>
@@ -36,14 +37,37 @@ export default function Projetos() {
                 <img src={ImgReact}></img>
               </li>
             </ul>
-          </ContainerIcons>
+          </ContainerIcons> */}
+        </li>
+        <li>
+          <h2>Countdown(contador regressivo) </h2>
+          <a target="_blank" href="https://playful-moxie-d089f4.netlify.app">
+            <img src={Img6}></img>
+          </a>
+          {/* <ContainerIcons>
+            <h4>Tecnologias utilizadas</h4>
+            <ul>
+              <li>
+                <img src={Imghtml}></img>
+              </li>
+              <li>
+                <img src={Imgcss}></img>
+              </li>
+              <li>
+                <img className="js" src={Imgjs}></img>
+              </li>
+              <li>
+                <img src={ImgReact}></img>
+              </li>
+            </ul>
+          </ContainerIcons> */}
         </li>
         <li>
           <h2>Netflix-clone </h2>
           <a target="_blank" href=" https://lnkd.in/dTsBGeTv">
             <img src={Img5}></img>
           </a>
-          <ContainerIcons>
+          {/* <ContainerIcons>
             <h4>Tecnologias utilizadas</h4>
             <ul>
               <li>
@@ -59,7 +83,7 @@ export default function Projetos() {
                 <img src={ImgReact}></img>
               </li>
             </ul>
-          </ContainerIcons>
+          </ContainerIcons> */}
         </li>
         <li>
           <h2>Super mario jump</h2>
@@ -67,7 +91,7 @@ export default function Projetos() {
             <img src={Img1}></img>
           </a>
 
-          <ContainerIcons>
+          {/* <ContainerIcons>
             <h4>Tecnologias utilizadas</h4>
             <ul>
               <li>
@@ -80,7 +104,7 @@ export default function Projetos() {
                 <img className="js" src={Imgjs}></img>
               </li>
             </ul>
-          </ContainerIcons>
+          </ContainerIcons> */}
         </li>
         <li>
           <h2>Pesquisa de usuario Github</h2>
@@ -91,7 +115,7 @@ export default function Projetos() {
             <img src={Img2}></img>
           </a>
 
-          <ContainerIcons>
+          {/* <ContainerIcons>
             <h4>Tecnologias utilizadas</h4>
             <ul>
               <li>
@@ -107,14 +131,14 @@ export default function Projetos() {
                 <img src={ImgReact}></img>
               </li>
             </ul>
-          </ContainerIcons>
+          </ContainerIcons> */}
         </li>
         <li>
           <h2>Buscador de CEP</h2>
           <a target="_blank" href="https://hopeful-wright-4b246f.netlify.app/">
             <img src={Img3}></img>
           </a>
-          <ContainerIcons>
+          {/* <ContainerIcons>
             <h4>Tecnologias utilizadas</h4>
             <ul>
               <li>
@@ -130,7 +154,7 @@ export default function Projetos() {
                 <img src={ImgReact}></img>
               </li>
             </ul>
-          </ContainerIcons>
+          </ContainerIcons> */}
         </li>
         <li>
           <h2>Calculadora de juros anuais </h2>
@@ -140,7 +164,7 @@ export default function Projetos() {
           >
             <img src={Img4}></img>
           </a>
-          <ContainerIcons>
+          {/* <ContainerIcons>
             <h4>Tecnologias utilizadas</h4>
             <ul>
               <li>
@@ -153,10 +177,9 @@ export default function Projetos() {
                 <img className="js" src={Imgjs}></img>
               </li>
             </ul>
-          </ContainerIcons>
+          </ContainerIcons> */}
         </li>
       </ul>
-      <h3>EM BREVE MAIS PROJETOS...!</h3>
     </Container>
   );
 }
